@@ -149,7 +149,4 @@ Contributions are welcome. Feel free to fork the repository and submit a pull re
 📧 [uttamott@gmail.com](mailto:uttamott@gmail.com)
 🔗 LinkedIn: https://linkedin.com/in/uttam-kumar-25579594
 
----
-
-## ⭐ If you found this project useful, consider giving it a star!
 
